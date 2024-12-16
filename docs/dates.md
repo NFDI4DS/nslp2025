@@ -6,10 +6,9 @@ nav_order: 7
 
 # Important dates
 
-* Paper submission deadline: ~~**March 7, 2024**~~ **March 14, 2024**
-* Notification of acceptance: **April 4, 2024**
-* Camera-ready submission: **April 18, 2024**
-* Workshop: **<span>May 27, 2024</span>**
-
+* Paper submission deadline: **March 6, 2025**
+* Notification of acceptance: **April 3, 2025**
+* Camera-ready submission: **April 17, 2025**
+* Workshop: **<span>June 1 or 2, 2025 (TBD)</span>**
 
 All deadlines are 23:59 UTC-12:00 (“anywhere on Earth”).
