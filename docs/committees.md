@@ -12,7 +12,7 @@ nav_order: 9
 
 * [Stefan Dietze](http://stefandietze.net) (GESIS Leibniz Institut für Sozialwissenschaften & Heinrich-Heine-University Düsseldorf, Germany)
 
-* [Natalia Manola](https://www.openaire.eu/natalia-manola)) (OpenAIRE, Greece)
+* [Natalia Manola](https://www.openaire.eu/natalia-manola) (OpenAIRE, Greece)
 
 # Programme committee
 
