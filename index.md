@@ -5,7 +5,7 @@ nav_order: 1
 permalink: /
 ---
 
-# Natural Scientific Language Processing and Research Knowledge Graphs (NSLP 2024)
+# Natural Scientific Language Processing and Research Knowledge Graphs (NSLP 2025)
 
 <table>
   <tr>
@@ -13,14 +13,14 @@ permalink: /
       <img width="250" height="250" src="./logo.png" alt="logo"/>
     </td>
     <td>
-    <strong>1st Workshop on Natural Scientific Language Processing and Research Knowledge Graphs (NSLP 2024)
+    <strong>2nd Workshop on Natural Scientific Language Processing and Research Knowledge Graphs (NSLP 2025)
 </strong>
     <br/><br/>
-    <strong>Co-located with <a href="https://2024.eswc-conferences.org" target="_blank">ESWC 2024</a></strong>
+    <strong>Co-located with <a href="https://2025.eswc-conferences.org" target="_blank">ESWC 2025</a></strong>
     <br/>
-    <strong><span>May 27, 2024</span></strong>
+    <strong><span>June 1 or 2, 2024 (TBD)</span></strong>
     <br/>
-    <strong>Hersonissos, Crete, Greece</strong>
+    <strong>Portoroz, Slovenia</strong>
     </td>
   </tr>
 </table>
