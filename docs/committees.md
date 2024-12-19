@@ -6,7 +6,7 @@ nav_order: 9
 
 # Organizing committee
 
-* [Georg Rehm](http://georg-re.hm) (Deutsches Forschungszentrum für Künstliche Intelligenz, Germany)
+* [Georg Rehm](http://georg-re.hm) (Deutsches Forschungszentrum für Künstliche Intelligenz & Humboldt-Universität zu Berlin, Germany)
 
 * [Sonja Schimmler](https://sites.google.com/view/sonjaschimmler/biography) (Technical University of Berlin & Fraunhofer FOKUS, Germany)
 
