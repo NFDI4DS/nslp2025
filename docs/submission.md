@@ -15,4 +15,4 @@ The NSLP 2025 workshop invites submissions of regular long papers, position pape
 * Submissions **must be in PDF**, formatted in the style of the Springer Publications format for [Lecture Notes in Computer Science (LNCS)](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines).
 * The proceedings of this workshop will be published as an **Open Access** volume in the Springer series Lecture Notes in Artificial Intelligence (LNAI). All costs associated with publishing papers in this proceedings volume will be covered by NFDI4DS project.
 * At least **one author per contribution must register** for the conference for presentation.
-* All submissions are done via EasyChair. The link will be provided soon.
+* All submissions are done via [EasyChair](https://easychair.org/my/conference?conf=nslp2025).
