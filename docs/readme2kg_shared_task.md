@@ -29,7 +29,7 @@ More details are available at the official submission website: https://www.codab
 
 **Important dates**
 
-*  Release of training datasets: January 22, 2025
+*  Release of training datasets: January 25, 2025
 *  Release of testing datasets: February 15, 2025
 *  Deadline for system submissions: February 22, 2025
 *  Announcement of results: February 27, 2025
