@@ -23,9 +23,9 @@ More details are available at the official submission website: https://www.codab
 
 **Contact**
 
-* Genet Asefa Gesese (FIZ Karlsruhe, Germany)
-* Zongxiong Chen (Fraunhofer FOKUS, Germany)
-* Shufan Jiang (FIZ Karlsruhe, Germany)
+* Genet Asefa Gesese (genet-asefa.gesese@fiz-karlsruhe.de)
+* Zongxiong Chen (zongxiong.chen@fokus.fraunhofer.de)
+* Shufan Jiang (shfuan.jiang@fiz-karlsruhe.de)
 
 **Important dates**
 
