@@ -11,7 +11,7 @@ The vision of NFDI4DataScience (NFDI4DS) is to support all steps of the complex 
 
 Participants will develop classifiers that take README files as input and output the mentions of the 10 entity types in the NFDI4DS Ontology (NFDI4DSO [2]): “Conference”, “Dataset”, “Evaluation Metric”, “License”, “Ontology”, “Programming Language”, “Project”, “Publication”, “Software” and ”Workshop”. A dataset with approximately 160 README.md files will be made available to train the classifiers.
 
-More details are available at the official submission website: https://www.codabench.org/competitions/4925/.
+More details are available at the official submission website: https://www.codabench.org/competitions/5396/.
 
 **Organisers**
 
