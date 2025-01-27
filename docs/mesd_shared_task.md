@@ -14,7 +14,7 @@ A label-free test dataset of 100 samples will be released in the last week of th
 
 **Dataset**
 
-You can download the **S2ORC_Enhanced500v1** dataset here: [Download Link](https://github.com/zeyd31/S2ORC_Exp500v1)
+You can download the **S2ORC_Exp500v1** dataset here: [Download Link](https://github.com/zeyd31/S2ORC_Exp500v1)
 
 **Organisers**
 
