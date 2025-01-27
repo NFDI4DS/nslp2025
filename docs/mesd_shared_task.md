@@ -13,6 +13,7 @@ To address these challenges, the MESD shared task will provide participants with
 A label-free test dataset of 100 samples will be released in the last week of the shared task timeline. Participants will then be required to upload the results of their systems on this dataset to our platform. The evaluation of submissions will focus on multiple metrics including accuracy, precision, recall, and F1 score (the F1 score will determine the ranking). This evaluation is based on an exact match criterion, i.e., for a label to be correctly extracted, it must include all the relevant tokens exactly as they appear in the source document. Additionally, participants are encouraged to discuss the complexity of their methods, considering both training and inference stages, to provide insights into the practical application and scalability of their solutions.
 
 **Dataset**
+
 You can download the **S2ORC_Enhanced500v1** dataset here: [Download Link](https://github.com/zeyd31/S2ORC_Exp500v1)
 
 **Organisers**
