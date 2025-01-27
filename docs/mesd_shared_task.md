@@ -18,7 +18,7 @@ You can download the **S2ORC_Enhanced500v1** dataset here: [Download Link](https
 
 **Organisers**
 
-[Zeyd Boukhers](zeyd.boukhers@fit.fraunhofer.de) (Fraunhofer FIT, Germany)
+[Zeyd Boukhers](https://fit.fraunhofer.de/fdda) (Fraunhofer FIT, Germany): [Email](zeyd.boukhers@fit.fraunhofer.de)
 
 **Important dates**
 
