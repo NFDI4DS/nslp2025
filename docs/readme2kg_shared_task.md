@@ -43,6 +43,6 @@ All deadlines are 23:59 UTC-12:00 (“anywhere on Earth”).
 References:
 
 
-[1] NFDI4DS-KG https://nfdi.fiz-karlsruhe.de/4ds/sparql, https://nfdi.fiz-karlsruhe.de/4ds/shmarql
+[1] NFDI4DS-KG [https://nfdi.fiz-karlsruhe.de/4ds/sparql](https://nfdi.fiz-karlsruhe.de/4ds/sparql), [https://nfdi.fiz-karlsruhe.de/4ds/shmarql](https://nfdi.fiz-karlsruhe.de/4ds/shmarql)
 
 [2] Genet Asefa Gesese et al. “NFDI4DSO: Towards a BFO Compliant Ontology for Data Science”. In: arXiv preprint arXiv:2408.08698 (2024).
