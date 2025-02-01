@@ -12,15 +12,15 @@ To address these challenges, the MESD shared task will provide participants with
 
 A label-free test dataset of 100 samples will be released in the last week of the shared task timeline. Participants will then be required to upload the results of their systems on this dataset to our platform. The evaluation of submissions will focus on multiple metrics including accuracy, precision, recall, and F1 score (the F1 score will determine the ranking). This evaluation is based on **Levenshtein Similarity** compared to the gold standard is at least 90%; meaning that while the label need not match exactly, it must closely resemble the source document's relevant tokens. Additionally, participants are encouraged to discuss the complexity of their methods, considering both training and inference stages, to provide insights into the practical application and scalability of their solutions.
 
-**Dataset**
+## Dataset
 
 You can download the **S2ORC_Exp500v1** dataset here: [Download Link](https://github.com/zeyd31/S2ORC_Exp500v1)
 
-**Organisers**
+# Organisers
 
 [Zeyd Boukhers](https://fit.fraunhofer.de/fdda) (Fraunhofer FIT, Germany): [Email](zeyd.boukhers@fit.fraunhofer.de)
 
-**Important dates**
+# Important dates
 
 * Release of training datasets: January 27, 2025
 * Release of testing datasets: February 15, 2025
