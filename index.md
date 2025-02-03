@@ -18,7 +18,7 @@ permalink: /
     <br/><br/>
     <strong>Co-located with <a href="https://2025.eswc-conferences.org" target="_blank">ESWC 2025</a></strong>
     <br/>
-    <strong><span>June 1 or 2, 2024 (TBD)</span></strong>
+    <strong><span>June 1 or 2, 2025 (TBD)</span></strong>
     <br/>
     <strong>Portoroz, Slovenia</strong>
     </td>
