@@ -19,10 +19,7 @@ The FoRC shared task aims to classify scientific documents into (sub-)topics acc
 **Contact**
 
 * maria.francis@dfki.de
-* raia.abu_ahmad@dfki.de
-* ekaterina.borisova@dfki.de
-* georg.rehm@dfki.de
-  
+
 **Important dates**
 
 * Training and testing data release: Feburary 18, 2025
