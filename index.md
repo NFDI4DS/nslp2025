@@ -29,9 +29,10 @@ permalink: /
 
 Scientific research is almost exclusively published in unstructured text formats, which are not readily machine-readable. While technological approaches can help to get this flood of scientific information and new knowledge under control, the development of such technologies is very complex in practice and hinders the creation of infrastructures and systems to track research and assist the scientific community with applications such as dedicated scientific search engines and recommender systems. **The 2nd Workshop on Natural Scientific Language Processing and Research Knowledge Graphs (NSLP)** aims to bring together researchers working on the processing, analysis, transformation and making-use-of scientific language and Research Knowledge Graphs including all relevant sub-topics. NSLP 2025 is a full-day workshop co-located with [ESWC 2025](https://2025.eswc-conferences.org) to be held in Portoroz, Slovenia in June 2025. The workshop consists of a keynote speaker as well as presentations and posters of accepted papers. 
 
-In addition, the workshop offers **two shared tasks**:
+In addition, the workshop offers **three shared tasks**:
 
 * [MESD: Metadata Extraction from Scholarly Documents](https://nfdi4ds.github.io/nslp2025/docs/mesd_shared_task.html)
+* [FoRC: Field of Research Classification](https://nfdi4ds.github.io/nslp2025/docs/forc_shared_task.html)
 * [ReadMe2KG: Github ReadMe to Knowledge](https://nfdi4ds.github.io/nslp2025/docs/readme2kg_shared_task.html)
   
 Participants can sign up for one or more (sub-)tasks. Automated evaluations of submitted systems are done through the Codalab platform.
