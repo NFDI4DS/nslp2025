@@ -9,10 +9,10 @@ nav_order: 6
 
 # Organisers
 
-Maria Francis (University of Trento, Trento, Italy) [Email](mafr03@dfki.de)
-Raia Abu Ahmad (DFKI, Berlin, Germany) [Email](raia.abu_ahmad@dfki.de)
-Ekaterina Borisova (DFKI, Berlin, Germany) [Email](ekaterina.borisova@dfki.de)
-Georg Rehm (DFKI, Berlin, Germany) [Email](georg.rehm@dfki.de)
+* Maria Francis (University of Trento, Trento, Italy) [Email](mafr03@dfki.de)
+* Raia Abu Ahmad (DFKI, Berlin, Germany) [Email](raia.abu_ahmad@dfki.de)
+* Ekaterina Borisova (DFKI, Berlin, Germany) [Email](ekaterina.borisova@dfki.de)
+* Georg Rehm (DFKI, Berlin, Germany) [Email](georg.rehm@dfki.de)
 
 # Important dates
 
