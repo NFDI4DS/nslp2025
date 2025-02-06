@@ -11,7 +11,7 @@ The FoRC shared task aims to classify scientific documents into (sub-)topics acc
 
 **Organisers**
 
-* Maria Francis (University of Trento, Trento, Italy)
+* Maria Francis (DFKI, Berlin, Germany & University of Trento, Trento, Italy)
 * Raia Abu Ahmad (DFKI, Berlin, Germany)
 * Ekaterina Borisova (DFKI, Berlin, Germany) 
 * Georg Rehm (DFKI, Berlin, Germany) 
