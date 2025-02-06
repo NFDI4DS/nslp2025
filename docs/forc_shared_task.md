@@ -6,8 +6,7 @@ nav_order: 6
 
 # FoRC: Field of Research Classification
 
-The FoRC shared task aims to classify scientific documents into (sub-)topics according to a predefined schema. The second iteration of the task (see [NSLP 2024](https://nfdi4ds.github.io/nslp2024/docs/forc_shared_task.html) for the first) will focus on classifying computational linguistics publications taken from the ACL Anthology using the FoRC4CL data and taxonomy. Weakly supervised data will added to FoRC4CL to create a bigger training corpus for classifying publication into 170 (sub-)topics of computational linguistics. 
-
+A core application of NSLP is classifying scienfitic articles for their respective field of research (FoR). While some respositories already use a classification system, these are often limited either in terms of the used taxonomy or in terms of the classification model. The FoRC shared task aims to classify scientific documents into (sub-)topics according to a predefined schema. The second iteration of the task (see [NSLP 2024](https://nfdi4ds.github.io/nslp2024/docs/forc_shared_task.html) for the first) will focus on classifying computational linguistics publications taken from the ACL Anthology using the FoRC4CL taxonomy, which consists of 170 core CL (sub-)topics in a three-tiered hierarchy. Weakly supervised data will be added to the FoRC4CL dataset to create a larger training corpus. Metadata fields include ACL Anthology ID, title, abstract, author(s), URL to the full text, publisher, publication year and month, proceedings title, DOI, and venue. As a multi-label hierarchical classification problem, this subtask will be evaluated by computing micro and macro precison, recall, and F1-score.
 
 **Organisers**
 
