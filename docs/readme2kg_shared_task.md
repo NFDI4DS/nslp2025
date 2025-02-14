@@ -30,11 +30,10 @@ More details are available at the [ReadMe2KG competition website](https://www.co
 **Important dates**
 
 *  Release of training datasets: January 25, 2025
-*  Release of testing datasets: February 15, 2025
-*  Deadline for system submissions: February 22, 2025
-*  Announcement of results: February 27, 2025
-*  Paper submission deadline: March 6, 2025
-*  Notification of acceptance: April 3, 2025
+*  Release of testing datasets: ~~February 15, 2025~~ March 18, 2025
+*  Deadline for system submissions: ~~February 22, 2025~~  March 25, 2025
+*  Paper submission deadline: ~~March 6, 2025~~ March 27, 2025
+*  Notification of acceptance: ~~April 3, 2025~~ April 10, 2025
 *  Camera-ready submission: April 17, 2025
 *  Workshop: June 1 or 2 2025
 
