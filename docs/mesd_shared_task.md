@@ -23,7 +23,7 @@ You can download the **S2ORC_Exp500v1** dataset here: [Download Link](https://gi
 # Important dates
 
 * Release of training datasets: January 27, 2025
-* Release of testing datasets: February 15, 2025
+* Release of testing datasets: February 15, 2025 (Released: [Download Link](https://github.com/zeyd31/S2ORC_Exp500v1/tree/main/test))
 * Deadline for system submissions: ~~February 22, 2025~~ February 25, 2025
 * Announcement of results: ~~February 27, 2025~~ March 3, 2025
 * Paper submission deadline: March 6, 2025
