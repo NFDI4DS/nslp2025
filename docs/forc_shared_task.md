@@ -14,7 +14,7 @@ You can download the data on Zenodo following this link: [https://zenodo.org/rec
 
 The data includes the original FoRC4CL corpus as well as additional 41,107 weakly supervised ACL publications.
 
-A link to the codabench competition page will be provided by February 21, 2025. 
+Model results should be updated to the Codabench: [https://www.codabench.org/competitions/5779/](https://www.codabench.org/competitions/5779/)
 
 **Organisers**
 
