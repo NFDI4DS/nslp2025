@@ -10,7 +10,7 @@ A core application of NSLP is classifying scienfitic articles for their respecti
 
 **Data**
 
-You can download the data on Zenodo following this link: [https://zenodo.org/records/14888497](https://zenodo.org/records/14888497).
+You can download the data on Zenodo following this link: [https://zenodo.org/records/14901529](https://zenodo.org/records/14901529).
 
 The data includes the original FoRC4CL corpus as well as additional 41,107 weakly supervised ACL publications.
 
