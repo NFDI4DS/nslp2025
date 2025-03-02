@@ -24,8 +24,8 @@ You can download the **S2ORC_Exp500v1** dataset here: [Download Link](https://gi
 
 * Release of training datasets: January 27, 2025
 * Release of testing datasets: February 15, 2025 (Released: [Download Link](https://github.com/zeyd31/S2ORC_Exp500v1/tree/main/test))
-* Deadline for system submissions: ~~February 25, 2025~~ March 2, 2025
-* Announcement of results: ~~February 27, 2025~~ March 4, 2025
+* Deadline for system submissions: ~~February 25, 2025~~ March 4, 2025 (via email: zeyd.boukhers@fit.fraunhofer.de)
+* Announcement of results: ~~February 27, 2025~~ March 6, 2025
 * Paper submission deadline: March 6, 2025
 * Notification of acceptance: April 3, 2025
 * Camera-ready submission: April 17, 2025
