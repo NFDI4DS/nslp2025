@@ -46,28 +46,8 @@ Participants can sign up for one or more (sub-)tasks. Automated evaluations of s
 
 All deadlines are 23:59 UTC-12:00 (“anywhere on Earth”).
 
-## Proceedings book
-The proceedings of this workshop are published as an [Open Access volume](https://link.springer.com/book/10.1007/978-3-031-65794-8) in the Springer series Lecture Notes in Artificial Intelligence (LNAI).
-
-<table border="0">
-  <tr>
-    <td style="text-align:left">
-      <img width="150" height="200" src="nslp-book.png" alt="book"/>
-    </td>
-    <td>
-      <img width="150" height="50" src="LNAI-Logo.png" alt="LNAI"/>
-    </td>
-  </tr>
-</table>
-
-<div align="left" style="margin: 0px auto;">
-
-</div>
-
-<div align="left" style="margin: 0px auto;">
-
-</div>
-
+## Proceedings 
+The proceedings of NSLP 2025 will be published as part of the ESWC 2025 Joint Workshop Proceedings. 
 
 
 <small><i>The logo was generated using [Canva AI](https://www.canva.com/en_gb/)</i></small>.
