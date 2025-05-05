@@ -9,6 +9,6 @@ nav_order: 7
 * Paper submission deadline: **March 6, 2025**
 * Notification of acceptance: **April 3, 2025**
 * Camera-ready submission: **April 17, 2025**
-* Workshop: **<span>June 1 or 2, 2025 (TBD)</span>**
+* Workshop: **<span>June 2, 2025</span>**
 
 All deadlines are 23:59 UTC-12:00 (“anywhere on Earth”).
