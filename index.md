@@ -18,7 +18,7 @@ permalink: /
     <br/><br/>
     <strong>Co-located with <a href="https://2025.eswc-conferences.org" target="_blank">ESWC 2025</a></strong>
     <br/>
-    <strong><span>June 1 or 2, 2025 (TBD)</span></strong>
+    <strong><span>June 2, 2025 (TBD)</span></strong>
     <br/>
     <strong>Portoroz, Slovenia</strong>
     </td>
@@ -42,7 +42,7 @@ Participants can sign up for one or more (sub-)tasks. Automated evaluations of s
 * Paper submission deadline: **March 6, 2025**
 * Notification of acceptance: **April 3, 2025**
 * Camera-ready submission: **April 17, 2025**
-* Workshop: **<span>June 1 or 2, 2025 (TBD)</span>**
+* Workshop: **<span>June 2, 2025</span>**
 
 All deadlines are 23:59 UTC-12:00 (“anywhere on Earth”).
 
