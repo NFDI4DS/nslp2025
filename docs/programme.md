@@ -14,8 +14,7 @@ nav_order: 3
   <tr>
   <td valign="top" ><strong>09:05</strong></td>
     <td colspan="2"><strong>Invited Keynote  - Michele Pasin</strong> 
-      <br><em>Performing Research Analytics at Scale: the Dimensions Reporting Platform</em> (<a href="https://nfdi4ds.github.io/nslp2025/docs/keynotes.html">Abstract</a>)</td>
-    
+      <br><em>Performing Research Analytics at Scale: the Dimensions Reporting Platform</em> (<a href="https://nfdi4ds.github.io/nslp2025/docs/keynotes.html">Abstract</a>)</td> 
   </tr>
   <tr>
   <td valign="top" ><strong>09:45</strong></td>
@@ -28,12 +27,10 @@ nav_order: 3
       <br><em>Ebrahim Norouzi, Sven Hertling, Harald Sack</em></td>   
   </tr>
   <tr>
-    
    <td valign="top" ><strong>10:30</strong></td>
     <td><strong>Coffee Break</strong></td>
   </tr>
   <tr>
-
   <td valign="top"><strong>11:00</strong></td>
     <br>
     <td colspan="12"><strong>FAIR Research Data and Scholarly Knowledge Graphs</strong> 
@@ -55,7 +52,6 @@ nav_order: 3
     <td><strong>Lunch Break</strong></td>
   </tr> 
   <tr>
-
    <td valign="top" ><strong>14:00</strong></td>
     <td colspan="5"><strong>Shared Task: Field of Research Classification (FoRC)</strong> 
       <br>
@@ -73,15 +69,13 @@ nav_order: 3
       <br><em>Zeyd Boukhers, Cong Yang</em>   
   </tr>
   <tr>
-
   <td valign="top"><strong>14:45</strong></td>
     <td colspan="5"><strong>Creating, Managing and Processing Research Data</strong> 
       <br>
       <br>A Study of the Categories used in ‘Papers with Code’
       <br><em>Jenifer Tabita Ciuciu-Kiss, Daniel Garijo</em>  
   </tr>
-  <tr>
-    
+  <tr> 
  <td valign="top"><strong>15:10</strong></td>
     <td><strong>Wrap-up and end of workshop</strong></td>
   </tr> 
