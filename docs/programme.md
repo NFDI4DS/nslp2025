@@ -45,7 +45,7 @@ nav_order: 3
       <br><em>Leonardo G. Azevedo, Eduardo Caroli, Beatriz S. Corrêa, Viviane T. da Silva</em>
       <br>
       <br>Facilitating RDF Querying in Research Data Management through ShEx-Based SPARQL Query Construction
-      <br><em>Christoph Göpfert, Sheeba Samuel, Martin Gaedke</em>
+      <br><em>Christoph Göpfert, Sheeba Samuel, Martin Gaedke</em></td> 
   </tr>
   <tr>
     <td valign="top" ><strong>12:30</strong></td>
