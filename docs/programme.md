@@ -66,14 +66,14 @@ nav_order: 3
     <td colspan="5"><strong>Shared Task: Metadata Extraction from Scholarly Documents</strong>
       <br>
       <br>MESD: Metadata Extraction from Scholarly Documents: A Shared Task Overview
-      <br><em>Zeyd Boukhers, Cong Yang</em>   
+      <br><em>Zeyd Boukhers, Cong Yang</em></td>   
   </tr>
   <tr>
   <td valign="top"><strong>14:45</strong></td>
     <td colspan="5"><strong>Creating, Managing and Processing Research Data</strong> 
       <br>
       <br>A Study of the Categories used in ‘Papers with Code’
-      <br><em>Jenifer Tabita Ciuciu-Kiss, Daniel Garijo</em>  
+      <br><em>Jenifer Tabita Ciuciu-Kiss, Daniel Garijo</em></td>  
   </tr>
   <tr> 
  <td valign="top"><strong>15:10</strong></td>
