@@ -47,7 +47,7 @@ Participants can sign up for one or more (sub-)tasks. Automated evaluations of s
 All deadlines are 23:59 UTC-12:00 (“anywhere on Earth”).
 
 ## Proceedings 
-The proceedings of NSLP 2025 will be published as part of the ESWC 2025 Joint Workshop Proceedings. 
+The proceedings of NSLP 2025 are be published as part of the <a href="https://ceur-ws.org/Vol-3977/">ESWC 2025 Joint Workshop Proceedings</a>. 
 
 
 <small><i>The logo was generated using [Canva AI](https://www.canva.com/en_gb/)</i></small>.
